@@ -1,0 +1,28 @@
+[
+	{
+		"title": "Motorola G100",
+		"description": "Nuevo dispositivo inteligente",
+		"price": "150000",
+		"thumbnail": "",
+		"code": "200",
+		"stock": "10",
+		"id": 1
+	},
+	{
+		"description": "Nuevo dispositivo inteligente",
+		"price": "280000",
+		"thumbnail": "",
+		"code": "100",
+		"stock": "3",
+		"id": 2
+	},
+	{
+		"title": "Xiaomi Note 11 Pro",
+		"description": "Nuevo dispositivo inteligente",
+		"price": "50000",
+		"thumbnail": "",
+		"code": "300",
+		"stock": "8",
+		"id": 3
+	}
+]

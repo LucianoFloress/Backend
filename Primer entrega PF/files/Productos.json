@@ -1,0 +1,33 @@
+[
+	{
+		"title": "bbbbb",
+		"description": "2222",
+		"price": 2,
+		"thumbnail": "/",
+		"code": 1,
+		"stock": 2,
+		"category": "zz"
+	},
+	{
+		"title": "modifcado",
+		"description": "11",
+		"price": 1500,
+		"thumbnail": "/",
+		"code": 10000000000,
+		"stock": 120,
+		"status": true,
+		"category": "zz",
+		"id": 1
+	},
+	{
+		"title": "aaaaa",
+		"description": "122",
+		"price": 15000,
+		"thumbnail": "/",
+		"code": 100000,
+		"stock": 122220,
+		"status": true,
+		"category": "zzz",
+		"id": 2
+	}
+]

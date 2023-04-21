@@ -1,0 +1,46 @@
+[
+	{
+		"title": "Xiaomi 11",
+		"description": "Nuevo",
+		"price": "1500",
+		"thumbnail": "/",
+		"code": "100",
+		"stock": "120",
+		"status": true,
+		"category": "Smart",
+		"id": 1
+	},
+	{
+		"title": "Pocophone F1",
+		"description": "Usado",
+		"price": "14000",
+		"thumbnail": "/",
+		"code": "200",
+		"stock": "11",
+		"status": true,
+		"category": "Smart",
+		"id": 2
+	},
+	{
+		"title": "Motorola 30 Edge",
+		"description": "Nuevo",
+		"price": "20000",
+		"thumbnail": "/",
+		"code": "300",
+		"stock": "55",
+		"status": true,
+		"category": "Smart",
+		"id": 3
+	},
+	{
+		"title": "Samsung S23 Ultra",
+		"description": "Nuevo",
+		"price": "3700",
+		"thumbnail": "/",
+		"code": "400",
+		"stock": "12",
+		"status": true,
+		"category": "Smart",
+		"id": 4
+	}
+]

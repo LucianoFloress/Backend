@@ -1,0 +1,44 @@
+<h1>HOLA MUNDO! REALTIME</h1>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-1">
+            <label>Nombre</label>
+            <input id="title">
+            <label>Description</label>
+            <input id="description">
+            <label>Precio</label>
+            <input id="price">
+            <label>Thumbnail</label>
+            <input id="thumbnail">
+            <label>Code</label>
+            <input id="code">
+            <label>Stock</label>
+            <input id="stock">
+            <label>Categoría</label>
+            <input id="category">
+        </div>
+    </div>
+</div>
+
+<div class="container my-2">
+    <input type="submit" id="btnAgregarProd" class="btn btn-primary" value="Crear producto">
+</div>
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p id="productos" class="mt-2">Lista de productos</p>
+            <form id="formDelete">
+                <label for="number-input">Eliminar producto</label><br>
+                <input type="number" id="number-input" name="number-input" placeholder="Ingrese un id"> <br>
+                <input type="button" id="delete-button" value="Eliminar producto" class="btn btn-danger my-2">
+            </form>
+        </div>
+    </div>
+</div>
+
+</script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/realTimeProducts.js"></script>
